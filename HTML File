@@ -1,0 +1,166 @@
+<html>
+    <head>
+        <title>YOUTUBE</title>
+        <link rel="stylesheet" href="youtube.css">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body>
+        <div class="container1">
+            <img class="img1" src="home.png" width="40px" height="40px">
+            <img class="img2" src="youu..png"  width="100px" height="100px">
+            <p class="box"> 
+                <p class="line">Five minute recipes|</p>
+                <i class="fa-solid fa-xmark close"></i>
+                <i class="fa-solid fa-magnifying-glass search"></i>
+                <i class="fa-solid fa-microphone mic"></i>
+                <p class="para1">+ Create</p>
+                <img class="bell" src="bell..png" width="15px" height="20px">
+                <img class="user" src="user.png" width="30px" height="30px">
+            </p>
+        </div>
+        <div class="container">
+            <div class="homeicon">
+                <a href="youtube.html"><img src="homeicon.png" width="55px" height="60px"></a>
+            <p class="h">Home</p>
+            </div>
+            <div class="shorts">
+                <a href="#Shortss"><img src="shorts.png" width="50px" height="60px"></a>
+                <p class="s">Shorts</p>
+            </div>
+            <div class="sub">
+                <a href="Utubeshorts.html"><img src="sub.png" width="40px" height="50px"></a>
+                <p class="subscr">Subscription</p>
+            </div>
+            <div class="you">
+                <img src="u.png" width="45px" height="50px">
+                <p class="uu"> 
+                    <a href="userpage.html">You</a>
+                </p>
+            </div>
+        </div>
+        <div class="container3">
+            <p class="cls1"><a id="onee" href="#">All</a></p>
+            <p class="cls2">Mukbang</p>
+            <p class="cls3">Javascript</p>
+            <p class="cls4">Pan Frying</p>
+            <p class="cls5">baking</p>
+            <p class="cls6">News</p>
+            <p class="cls7">Music</p>
+            <p class="cls8">Computer Files</p>
+            <p class="cls9">Dramedy</p>
+            <p class="cls10">Tamilnadu Public Service Commission</p>
+            <p class="cls11">Tamil Cinema</p>
+             <p class="cls12">Live</p> 
+        </div>
+        
+        <div class="container4">
+           <div class="boxxx boxxx1">
+            <div class="video">
+                <iframe width="370px" height="240px" src="https://www.youtube.com/embed/MdAm00qcM-M?si=tLCxWjKov28fsf2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <img class="lg" src="logg.png" width="40px" height="40px">
+                <p class="lgg">Five minutes | 28th March 2025 - Promo Today </p>
+                <p class="lggg">Five Minutes Recipes<span>2.7M Views ~ 20 hours ago</span>
+                </p>
+            </div>
+           </div>
+           <div class="boxxx boxxx2">
+            <div class="video">
+                <iframe width="370px" height="240px" src="https://www.youtube.com/embed/9KyibUYYxU4?si=W3sHTzQiK3J-C7HN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <img class="lg" src="logg.png" width="40px" height="40px">
+                <p class="lgg">Javascript JS functions | 28th March 2025 - Theory</p>
+                <p class="lggg">Javascript beginners<span>2.8M Views ~ 22 hours ago</span>
+            </div>
+           </div>
+           <div class="boxxx boxxx3">
+            <div class="video">
+                <iframe width="370px" height="240px" src="https://www.youtube.com/embed/WFpvTPn726M?si=cQqJOFdMhWrh3H2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <img class="lg" src="logg.png" width="40px" height="40px">
+                <p class="lgg">Javascript JS Operators | 27th March 2025 - Full Explanation</p>
+                <p class="lggg">Coding Pro<span>3.5M Views ~ 2 days ago</span>
+            </div>
+           </div>
+           <div class="boxxx boxxx4">
+            <div class="video">
+                <iframe width="370px" height="240px" src="https://www.youtube.com/embed/Q578sps_gJk?si=0lJU5Nyyuo5do4Kn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <img class="lg" src="logg.png" width="40px" height="40px">
+                <p class="lgg">TNPSC QUESTIONS 2021- 2024 | 28th March 2025 - Learn in easy way</p>
+                <p class="lggg">TNPSC questions<span>2.5M Views ~ 1 year ago</span>
+            </div>
+           </div>
+
+      
+           <div class="container5">
+                <div class="b b1">
+                    <div class="video">
+                        <iframe width="370px" height="240px" src="https://www.youtube.com/embed/MdAm00qcM-M?si=tLCxWjKov28fsf2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <img class="lg" src="logg.png" width="40px" height="40px">
+                <p class="lgg">Mahaanadhi | 28th March 2025 - Promo Today </p>
+                <p class="lggg">Vijay Television<span>2.7M Views ~ 20 hours ago</span>
+                </p>
+                    </div>
+                </div>
+                <div class="b b2">
+                    <div class="video">
+                        <iframe width="370px" height="240px" src="https://www.youtube.com/embed/W7gQAAUr1i4?si=krDzTby7Xj9d12AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <img class="lg" src="logg.png" width="40px" height="40px">
+                <p class="lgg">ZOHO Work from homejobs for freshers 2025 | Jobs </p>
+                <p class="lggg">Sai Academy<span>2.7M Views ~ 20 hours ago</span>
+                </p>
+                </div>
+                <div class="b b3"><div class="video">
+                    <iframe width="370px" height="240px" src="https://www.youtube.com/embed/MdAm00qcM-M?si=tLCxWjKov28fsf2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <img class="lg" src="logg.png" width="40px" height="40px">
+            <p class="lgg">Crispy Hot Chicken & Cheese ball Mukbang ASMR | EATING </p>
+            <p class="lggg">ASMR PHAN<span>2.7M Views ~ 20 hours ago</span>
+            </p></div>
+                <div class="b b4"><div class="video">
+                    <iframe width="370px" height="240px" src="https://www.youtube.com/embed/VMSKKzst7oA?si=1K47ZMcrQ5mn-UZi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <img class="lg" src="logg.png" width="40px" height="40px">
+            <p class="lgg">Coffee making| Bachelors Coffee | Easy Recipes 1 mins </p>
+            <p class="lggg">Samayal TV<span>2.7M Views ~ 20 hours ago</span>
+            </p></div>
+           </div>
+           
+           <img class="short" id="shortsss" src="shorts.png" width="40px" height="30px">
+           <p class="pp"><a href="#"></a>Shorts</p>
+
+           <br><br>
+           <div class="container6">
+            <a href="#shorts"></a>
+                <div class="m m1">
+                    <div class="vid">
+                        <iframe width="200px" height="300px" src="https://www.youtube.com/embed/IFohava1-7I?si=yNbrIOtGqjt411qP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="m m2">
+                    <div class="vid">
+                        <iframe width="200px" height="300px" src="https://www.youtube.com/embed/IFohava1-7I?si=yNbrIOtGqjt411qP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="m m3">
+                    <div class="vid">
+                        <iframe width="200px" height="300px" src="https://www.youtube.com/embed/IFohava1-7I?si=yNbrIOtGqjt411qP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="m m4">
+                    <div class="vid">
+                        <iframe width="200px" height="300px" src="https://www.youtube.com/embed/IFohava1-7I?si=yNbrIOtGqjt411qP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="m m5">
+                    <div class="vid">
+                        <iframe width="200px" height="300px" src="https://www.youtube.com/embed/IFohava1-7I?si=yNbrIOtGqjt411qP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="m m6">
+                    <div class="vid">
+                        <iframe width="200px" height="300px" src="https://www.youtube.com/embed/IFohava1-7I?si=yNbrIOtGqjt411qP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div> 
+            </div>
+
+
+        </div>
+    </body>
+</html>
